@@ -1,10 +1,10 @@
 ---
-title: Weekly Conclusions
+title: Conclusions
 module: 3
 jotted: false
 ---
 
-# Weekly Conclusions
+# Conclusions
 
 Excellent job this week!  We did some more work with Code.org learning how to create a mobile application and a small game.  Pretty cool, eh? We move to something new next week.
 
