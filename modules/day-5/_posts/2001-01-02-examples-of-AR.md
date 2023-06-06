@@ -43,12 +43,9 @@ jotted: true
 <li><a href="https://www.pokemon.com/us/app/pokemon-go/" target="_blank">Pokemon Go</a></li>
 <li><a href="https://www.bbc.co.uk/taster/pilots/civilisations-ar" target="_blank">BBC Civilisations</a></li>
 <li><a href="http://www.inkhunter.tattoo/" target="_blank">Ink Hunter</a></li>
-<li><a href="http://walla.me/" target="_blank">WallaMe</a></li>
 <li><a href="https://justaline.withgoogle.com/" target="_blank">Just a Line</a></li>
 <li><a href="https://www.ingress.com/game/" target="_blank">Ingress Prime</a></li>
-<li><a href="https://www.reaktor-berlin.com/neyon-clash" target="_blank">Neyon Clash</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=fm.combo.dARkSubjectOne&hl=en" target="_blank">dARk: Subject One (Android)</a></li>
-<li><a href="https://apps.apple.com/app/id1312987602" target="_blank">dARk: Subject One (iOS)</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient&hl=en" target="_blank">Zombies, Run! (Android)</a></li>
 <li><a href="https://itunes.apple.com/app/id503519713" target="_blank">Zombies, Run! (iOS)</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&hl=en" target="_blank">Geocaching (Android)</a></li>
@@ -64,12 +61,6 @@ jotted: true
 <p>Example here.</p>
 
 <p><a href="//www.youtube.com/embed/RjEYH6YIf0g" data-lity>Adobe Aero Video</a></p>
-
-<p>Another one that is out there for both devices is Google Expeditions.</p>
-
-<p><a href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions" target="_blank">Google Expeditions - Android</a></p>
-
-<p><a href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_blank">Google Expeditions - iOS</a></p>
 
 <p>Another mobile AR app is called Sketch AR, which allows you to take existing photographs and make them into an AR experience, or you can draw something and transform it into an AR Experience.</p>
 
