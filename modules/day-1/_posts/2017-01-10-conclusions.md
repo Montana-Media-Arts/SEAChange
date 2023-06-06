@@ -5,4 +5,4 @@ module: 1
 
 # Conclusions
 
-That is it for Week 1. I hope you are excited about this course and everything we are going to learn this semester.
+This is it for day 1.  I hope you enjoy the rest of the week!
